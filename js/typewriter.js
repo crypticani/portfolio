@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded',function(event){
     // array with texts to type in typewriter
-    var dataText = ["Python and Django Developer",
-    "Cyber Security",
-    "Cloud Computing",
+    var dataText = ["Full Stack Developer(Web/AI)",
+    "Web Developer",
+    "UX Designer",
     "Open Source Contributor",];
     
     // type one text in the typwriter
