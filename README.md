@@ -7,6 +7,7 @@ You can fork this and make yours.
 - Rename the forked repository to 'username.github.io', where username is your GitHub username.
 - Edit the HTML pages according to your own
 - That's it! Navigate to 'username.github.io' to see your website :)
+- this code works very well
 
 ## Credits
 - <a href="https://github.com/Bloggify/github-calendar" target=_blank> Github Calendar by Bloggify </a>
