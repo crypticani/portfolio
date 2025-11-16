@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNjYzMzM4NjQ=",
+      "name": "UTSAV",
+      "createdAt": "2021-05-11T09:54:00Z",
+      "url": "https://github.com/crypticani/UTSAV",
+      "description": " A sports event management system developed using Django. ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGzPoJQ",
+      "name": "MyClassBot",
+      "createdAt": "2022-02-07T06:36:02Z",
+      "url": "https://github.com/crypticani/MyClassBot",
+      "description": "A bot written in Python to automate attending classes on MyClass (Codetantra).",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyOTE0NzQ0OTk=",
+      "name": "himmat",
+      "createdAt": "2020-08-30T13:21:34Z",
+      "url": "https://github.com/crypticani/himmat",
+      "description": "A CLI app for daily motivation from the book \"Lose Not Your Heart\" (\"Haariye na himmat\" in hindi) written by Pt. Shriram Sharma Acharya",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNTA5NDIxNjU=",
+      "name": "Drag-N-Drive_game",
+      "createdAt": "2020-03-29T03:02:32Z",
+      "url": "https://github.com/rupalisingh2709/Drag-N-Drive_game",
+      "description": "A simple but interesting car racing game coded in c language.",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyOTM2ODMzNDA=",
+      "name": "linkt",
+      "createdAt": "2020-09-08T02:45:12Z",
+      "url": "https://github.com/crypticani/linkt",
+      "description": "fetch the details of a link and get alerted for phishing attacks.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMzUyNTAyNzA=",
+      "name": "portfolio",
+      "createdAt": "2021-02-02T10:26:34Z",
+      "url": "https://github.com/crypticani/portfolio",
+      "description": "A developers portfolio website template. Completely static and fully responsive site, coded in HTML, CSS, JavaScript and Bootstrap only. Ideal for students and freshers.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
+}
