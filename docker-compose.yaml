@@ -1,0 +1,13 @@
+services:
+
+  portfolio:
+    container_name: portfolio
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/app'
+    # environment:
+    #   - CHOKIDAR_USEPOLLING=true
+    network_mode: host
+    restart: unless-stopped

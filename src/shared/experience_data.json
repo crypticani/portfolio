@@ -1,0 +1,70 @@
+{
+  "description": "I began my career as a Full‑Stack Developer working with Python, Django, and Vue.js, and later transitioned into a DevOps Engineer, driven by a strong interest in Linux, cloud platforms, and infrastructure automation.",
+  "header_image_path": "experience.svg",
+  "sections": [
+    {
+      "title": "Work",
+      "experiences": [
+        {
+          "title": "DevOps Engineer",
+          "company": "Kochar Innovations Private Limited",
+          "company_url": "https://www.linkedin.com/company/knowmax/about/",
+          "logo_path": "muffito_logo.png",
+          "duration": "June 2023 - Current",
+          "location": "Amritsar, Punjab",
+          "description": "Deployment of applications using Docker on production infrastructure as well as on premise at client's data center. Configuration of Database clusters for High Availability from scratch (MySQL, PostgreSQL, MongoDB, Typesense, Clickhouse, Redis, KeyDB) and their backup and restore methodologies. Deployed Keycloak in High Availability mode from scratch and Integrated SSO for various applications. Managing Cloud Infrastructure. Leading the DevOps team and helping them in solving their problems whenever required. Designing System Architecture of the applications for High Availability. Configuration of CI/CD using Jenkins from scratch",
+          "color": "#9b1578"
+        }
+      ]
+    },
+    {
+      "title": "Internships",
+      "experiences": [
+        {
+          "title": "IT Intern",
+          "company": "Kochar Infotech Ltd.",
+          "company_url": "https://www.kochartech.com/",
+          "logo_path": "delhivery_logo.png",
+          "duration": "June 2022 - May 2023",
+          "location": "Gurgaon, Haryana",
+          "description": "Configured monitoring infrastructure for the organization from scratch using Prometheus, Alertmanager, Garafana, Loki and Fluentbit. Streamlined the deployment process of applications by dockerizing them. Customized Linux distro for organizational needs. Tracked Linux users with the help of Python and MQTT protocol. Configured auto data backup of all the Linux users to S3 buckets. Developed an admin panel to track all the active devices, fetch backup data and system logs, access the active systems remotely using Python, Django and MQTT",
+          "color": "#ee3c26"
+        },
+        {
+          "title": "Full Stack Development Intern",
+          "company": "The Code Work",
+          "company_url": "https://thecodework.com",
+          "logo_path": "delhivery_logo.png",
+          "duration": "June 2021 - Oct 2021",
+          "description": "Worked on Django, Django Rest Framework and Vue JS Projects",
+          "color": "#9b1578"
+        },
+        {
+          "title": "Software Development Intern",
+          "company": "All World Gayatri Pariwar",
+          "company_url": "https://awgp.org",
+          "logo_path": "delhivery_logo.png",
+          "duration": "Feb 2021 - May 2021",
+          "description": "Worked on Django, JavaScript and PHP Projects",
+          "color": "#9b1578"
+        }
+      ]
+    },
+    {
+      "title": "Volunteerships",
+      "experiences": [
+        {
+          "title": "Volunteer",
+          "organization": "Fedora",
+          "company_url": "https://fedoraproject.org",
+          "logo_path": "delhivery_logo.png",
+          "duration": "July 2020 - June 2021",
+          "description": "Contributor at Fedora Community Outreach Task Force",
+          "color": "#9b1578"
+        }
+      ]
+    }
+  ],
+  "subtitle": "Work, Internship and Volunteership",
+  "title": "Experience"
+}
