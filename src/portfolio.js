@@ -285,7 +285,7 @@ const degrees = {
       subtitle: "Bachelor in Computer Applications",
       logo_path: "dsvv.jpg",
       alt_name: "DSVV",
-      duration: "2028 - 2021",
+      duration: "2018 - 2021",
       descriptions: [
         "⚡ I have studied computer applications subjects like Programming, DS, Algorithms, DBMS, OS, Cloud, etc.",
         "⚡ Apart from this, I have also done a modular course in Cloud Computing",
